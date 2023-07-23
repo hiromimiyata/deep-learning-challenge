@@ -11,7 +11,7 @@ The purpose of this analysis is to determine which applicants have the best chan
 What variable(s) are the target(s) for your model?
 
 - The target of the model is the IS_SUCCESSFUL variable.
-- 
+
 What variable(s) are the features for your model?
 
 - The features of the model are "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION","STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT."
