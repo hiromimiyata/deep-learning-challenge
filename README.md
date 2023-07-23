@@ -25,8 +25,8 @@ Were you able to achieve the target model performance?
 - No. the target model performance was 75% accuracy.
 What steps did you take in your attempts to increase model performance?
 - I tried to increase teh accuracy by changing the amount of layers, activation functions, and adjusting the number of neurons. I looked at the training loss and training accuracy to determine what epoch numbers I should have.
-
-
+![Alt Text](https://github.com/hiromimiyata/deep-learning-challenge/blob/main/Screenshot%202023-07-22%20231210.png)
+![Alt Text](https://github.com/hiromimiyata/deep-learning-challenge/blob/main/Screenshot%202023-07-22%20231219.png)
 
 
 ### Summary
